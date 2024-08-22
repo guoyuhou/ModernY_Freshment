@@ -1,0 +1,10 @@
+[[pages]]
+path = "Modern_Y_Fresh.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "page1.py"
+name = "page1"
+icon = ":books:"
+url_path = "my_books" # You can override the default url path for a page
